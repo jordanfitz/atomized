@@ -89,4 +89,4 @@ Connection: keep-alive
 
 ## License
 
-atomize(s/d) is licensed under the [MIT license](https://github.com/tinfoilboy/atomizes/LICENSE.md). 
+atomize(s/d) is licensed under the [MIT license](https://github.com/tinfoilboy/atomizes/blob/master/LICENSE.md). 
