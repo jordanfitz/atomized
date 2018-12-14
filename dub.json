@@ -1,0 +1,11 @@
+{
+    "name": "atomized",
+    "description": "An HTTP request/response builder/parser.",
+    "version": "1.0.0",
+    "authors": ["Jordan Fitzgerald"],
+    "copyright": "Copyright © 2018 Maxwell Flynn",
+    "homepage": "https://github.com/tinfoilboy/atomizes",
+    "license": "MIT",
+    "targetType": "library",
+    "targetPath": "out"
+}
