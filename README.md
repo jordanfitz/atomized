@@ -1,4 +1,4 @@
-# atomizes
+# atomized
 
 A port of [Maxwell Flynn's](https://maxwellflynn.com) HTTP request/response builder/parser [atomizes](https://github.com/tinfoilboy/atomizes).
 
